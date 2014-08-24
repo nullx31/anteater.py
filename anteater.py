@@ -3,7 +3,7 @@
 
 ###########################################
 # 27.11.2012 | word scraper bot wsb.py    #
-# by PirateSecurity # http://piratesec.de #
+# @pirate_security			  #
 ###########################################
 
 import mechanize
